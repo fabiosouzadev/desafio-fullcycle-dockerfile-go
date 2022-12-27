@@ -1,12 +1,16 @@
 <h1 align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/fabiosouzadev/desafio-fullcycle-dockerfile-go/main/docs/screen.png" alt="screen" width="200">
+  <br>
   Desafio Dockerfile Golang
 </h1>
 
 ## Desafio
-* Criar uma imagem docker de um app em [golang](https://go.dev/) que imprime `Full Cycle Rocks!!`
-* Imagem com menos de 2Mb
 
-## 🚀 Buildando a imagem 
+- Criar uma imagem docker de um app em [golang](https://go.dev/) que imprime `Full Cycle Rocks!!`
+- Imagem com menos de 2Mb
+
+## 🚀 Buildando a imagem
 
 ```bash
 # Clone this repository

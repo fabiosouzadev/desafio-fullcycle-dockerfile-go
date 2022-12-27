@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/fabiosouzadev/desafio-fullcycle-dockerfile-go/main/docs/screen.png" alt="screen" width="200">
+  <img src="https://raw.githubusercontent.com/fabiosouzadev/desafio-fullcycle-dockerfile-go/main/docs/screen.png" alt="screen">
   <br>
   Desafio Dockerfile Golang
 </h1>
